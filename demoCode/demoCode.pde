@@ -96,5 +96,6 @@ void draw() {
   // Display total points
   textAlign(LEFT);
   text("Total points", 300, 200);
+  textAlign(RIGHT);
   text(totalPoints, 650, 200);
 }
