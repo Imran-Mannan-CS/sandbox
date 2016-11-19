@@ -1,7 +1,7 @@
 // demoCode.pde
 // Keeping track of battle points for Avengers teams
 //
-// Author: Dr. Pineda (November 18, 2016)
+// Author: Dr. Pineda (November 21, 2016)
 
 //
 // Declare global variables
