@@ -1,7 +1,7 @@
 # sandbox
-A sandbox for nerds to play in, tinker and have fun in. Let's build a code castel. :-)
+A sandbox for nerds to play in, tinker and have fun in. Let's build a castle of code. :-)
 
-# How to successfully code as (told by Baba Brinkman)[http://music.bababrinkman.com/track/performance-feedback-revision-20]
+# How to successfully code as [told by Baba Brinkman](http://music.bababrinkman.com/track/performance-feedback-revision-20)
 Performance, feedback, revision that’s how these vocals get written
 
 I got a book full of scribbles, put a rhyme to the test then I fix it 
