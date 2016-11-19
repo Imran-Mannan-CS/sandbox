@@ -68,7 +68,8 @@ void setup() {
 //
 void draw() {
   background(255,255,255); // Redraw white background to keep things crisp
-  line(300,0,300,500);   // Vertical line to align text around
+  line(300,0,300,500);   // Vertical line to align team names around
+  line(650,0,650,650);   // Vertical line to align points around
   
   //
   // Display team names
@@ -96,6 +97,6 @@ void draw() {
   // Display total points
   textAlign(LEFT);
   text("Total points", 300, 200);
-  textAlign(RIGHT);
+  textAlign(CENTER);
   text(totalPoints, 650, 200);
 }
