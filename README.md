@@ -1,5 +1,5 @@
 # sandbox
-A sandbox for nerds to play in, tinker and have fun in. Let's build a castle of code. :-)
+A sandbox for nerds to play in, tinker and have fun in. Let's build a castle of code. :-)  THese pages have a correcsponding Gitub web page template in the gh branch that can be viewed at https://mariopineda.github.io/sandbox/.
 
 # How to successfully code as [told by Baba Brinkman](http://music.bababrinkman.com/track/performance-feedback-revision-20)
 Performance, feedback, revision that’s how these vocals get written
